@@ -12,7 +12,7 @@ learning modeling techniques. It provides insights into the factors
 that influence movie ratings and allows you to build a model that
 can estimate the ratings of movies accurately.
 
-- <u>**Sales Prediction Using Regression**</u> Sales prediction involves forecasting the amount of a product that
+- <u>**Sales Prediction Using Regression:**</u> Sales prediction involves forecasting the amount of a product that
 customers will purchase, taking into account various factors such as
 advertising expenditure, target audience segmentation, and
 advertising platform selection.
